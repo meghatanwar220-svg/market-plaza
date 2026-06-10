@@ -1,0 +1,7 @@
+*.lua.backup
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/settings.json
